@@ -13,7 +13,6 @@ If you have conda, you can simply run
 conda env create -f environment.yml
 
 ```
-Otherwise refer the requirements.txt file.
 
 ### Download the Webdatasets
 
